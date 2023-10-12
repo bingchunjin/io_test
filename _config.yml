@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://bingchunjin.github.io_test
+url: https://bingchunjin.github.io
 date_format: "ordinal"
 title: 矽昌通信
 subtitle: "公众号：矽昌通信"
